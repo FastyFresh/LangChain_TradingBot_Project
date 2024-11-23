@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-anthropic
+python-dotenv
+cohere
+google-auth-oauthlib
+google-api-python-client
+torch
+numpy
+pandas
+pytest
+pylint
+black
